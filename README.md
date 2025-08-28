@@ -72,7 +72,6 @@ Access the application
 Open your browser and go to http://localhost:5000
 
 📁 Project Structure
-text
 todo-app/
 ├── app/
 │   ├── __init__.py          # Flask app factory
