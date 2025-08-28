@@ -1,5 +1,4 @@
 
-
 📝 Flask To-Do App
 
 A simple Flask-based To-Do application with user authentication (login & register) and task management features.
